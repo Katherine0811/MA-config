@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to the updated x2 accounts related QA APIs "
+  message: "Welcome to accounts related QA APIs "
   contactDetails:
     name: "Jane Bloggs - QA TESTER"
     email: "jane@tus.ie"
